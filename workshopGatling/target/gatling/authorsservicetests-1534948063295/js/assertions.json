@@ -1,0 +1,10 @@
+{
+  "simulation": "AuthorsServiceTests",
+  "simulationId": "authorsservicetests",
+  "start": 1534948063295,
+  "description": "",
+  "scenarios": ["Authors"],
+  "assertions": [
+
+  ]
+}
